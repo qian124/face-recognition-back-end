@@ -1,0 +1,28 @@
+{
+  "name": "face-recognition-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qian124/face-recognition-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qian124/face-recognition-back-end/issues"
+  },
+  "homepage": "https://github.com/qian124/face-recognition-back-end#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.17.1",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
